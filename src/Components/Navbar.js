@@ -30,7 +30,7 @@ const Navbar = () => {
 
         {/* GitHub Button */}
         <motion.a
-          href="https://github.com/anshulghogre4/expense-tracker-react"
+          href="https://github.com/DevilEye007/"
           target="_blank"
           rel="noopener noreferrer"
           whileHover={{
