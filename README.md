@@ -31,7 +31,7 @@
 
 ## Live Link
 
-- [Link](https://expense-tracker-react-one.vercel.app/)
+- [Live Preview](https://expense-tracker-faiz.vercel.app/)
 
 ---
 
