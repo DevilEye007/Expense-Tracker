@@ -19,9 +19,6 @@ const Navbar = () => {
                      bg-clip-text text-transparent drop-shadow-lg"
           whileHover={{
             scale: 1.1,
-            rotate: [0, 5, -5, 0],
-            transition: { duration: 0.5, ease: "easeInOut" },
-            textShadow: "0 0 8px rgba(255,255,255,0.7)",
           }}
           whileTap={{ scale: 0.95 }}
         >
