@@ -5,6 +5,7 @@ import Cards from "./Components/Cards";
 import AddBudgetModel from "./Components/AddBudgetModel";
 import AddExpenseModel from "./Components/AddExpenseModel";
 import ViewExpenseModel from "./Components/ViewExpenseModel";
+import Footer from "./Components/Footer";
 import { useExpenseTracker } from "./Contexts/ExpenseTrackerContext";
 import TotalExpense from "./Components/TotalExpense";
 import { Toaster } from "react-hot-toast";
@@ -93,6 +94,7 @@ function App() {
             </motion.div>
           );
         })}
+        {/* <Footer/> */}
       </div>
 
       {/* Total Expenses */}
